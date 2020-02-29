@@ -1,6 +1,6 @@
 # Vehicle Counter from high speed road using image processing methods only running in real time
 
-<img src="images/image_1.png" width="700" height="500">
+<img src="images/img_1.png" width="700" height="500">
 
 The requirements for this task are namely:
     ` - numpy
