@@ -1,4 +1,4 @@
-# Vehicle Counter from both ways from national road using image processing methods only
+# Vehicle Counter from high speed road using image processing methods only running in real time
 
 <img src="images/image_1.png" width="700" height="500">
 
